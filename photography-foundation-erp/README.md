@@ -1,12 +1,24 @@
 # Photography Foundation ERP & SaaS Platform
 
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![PHP](https://img.shields.io/badge/PHP-8-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Production](https://img.shields.io/badge/Status-Live-success)
+![Closed Source](https://img.shields.io/badge/Source-Closed-lightgrey)
+
+🌐 **Live Website:** https://erp.photographyfoundationindia.com
+
+📱 **Google Play:** https://play.google.com/store/apps/details?id=com.photographyfoundationindia.erp.twa&hl=en_IN
+
+⭐ **Case Study:** This Repository
+
 > Closed-source production software
 
 ## Overview
 
 Designed and developed an enterprise ERP platform supporting membership management, digital credentials, subscriptions, payments, and administrative workflows.
 
-The platform is currently used in production and serves more than 1000 users.
+The platform is currently used in production and serves more than 1100 users.
 
 ## My Contributions
 
