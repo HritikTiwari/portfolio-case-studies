@@ -1,5 +1,17 @@
 # ✈️ Travel & Booking Engine
 
+![Laravel](https://img.shields.io/badge/Laravel-11-red)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Production](https://img.shields.io/badge/Status-Live-success)
+![Closed Source](https://img.shields.io/badge/Source-Closed-lightgrey)
+
+🌐 **Live Website:** https://atsvaranasi.com/
+
+📖 **Case Study:** This Repository
+
+---
+
 > **Enterprise Travel Management Platform (Closed Source)**
 
 > **Note:** This project was developed professionally for a client. The source code cannot be shared publicly due to client confidentiality and intellectual property obligations. This repository highlights the engineering work and technical decisions behind the system.
