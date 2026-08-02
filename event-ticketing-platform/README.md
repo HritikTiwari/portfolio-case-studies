@@ -6,7 +6,7 @@
 ![Production](https://img.shields.io/badge/Status-Live-success)
 ![Closed Source](https://img.shields.io/badge/Source-Closed-lightgrey)
 
-🌐 **Live Website:** https://atsvaranasi.com/
+🌐 **Live Website:** https://events.photographyfoundationindia.com/
 
 📖 **Case Study:** This Repository
 
