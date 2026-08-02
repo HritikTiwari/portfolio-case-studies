@@ -14,8 +14,6 @@
 
 > **Closed Source Professional Project**
 
-> **Closed Source Professional Project**
-
 > **Note:** This project was developed professionally for a client. The source code cannot be shared publicly due to client confidentiality and intellectual property agreements. This repository showcases the engineering work, architecture, and technical challenges involved.
 
 ---
