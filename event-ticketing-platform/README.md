@@ -1,5 +1,19 @@
 # 🎫 Event Ticketing & Dynamic Pass Generation Platform
 
+![Laravel](https://img.shields.io/badge/Laravel-13-red)
+![PHP](https://img.shields.io/badge/PHP-8.3-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Production](https://img.shields.io/badge/Status-Live-success)
+![Closed Source](https://img.shields.io/badge/Source-Closed-lightgrey)
+
+🌐 **Live Website:** https://atsvaranasi.com/
+
+📖 **Case Study:** This Repository
+
+---
+
+> **Closed Source Professional Project**
+
 > **Closed Source Professional Project**
 
 > **Note:** This project was developed professionally for a client. The source code cannot be shared publicly due to client confidentiality and intellectual property agreements. This repository showcases the engineering work, architecture, and technical challenges involved.
